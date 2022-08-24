@@ -1,0 +1,15 @@
+{
+    "name": "sword002",
+    "description": "Can be use in Eden Verden",
+    "image": "https://ipfs.io/ipfs/QmNP3sH69ZqhxBQSQnD4Gg9ZJtfUaqMR1ii67v2399GHHB?filename=sword001.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "sword"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 6
+        }
+    ]
+}
